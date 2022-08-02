@@ -1,0 +1,338 @@
+.body{
+    background: #E5E5E5;
+}
+
+.container{
+    position: relative;
+    width: 1440px;
+    height: 2313px;
+    background: #FFFFFF;
+    border: 1px solid black;
+    margin: 50px;
+    display: flex;
+}
+
+.logo{
+   margin: 45px 0 2228px 100px;
+}
+
+.menuCon{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 200px;
+    margin-top: 56px;
+}
+
+.menu{
+    width: 66px;
+    height: 10px;
+    left: 498px;
+    top: 56px;
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 10px;
+    color: #222222;
+}
+
+.contactus{
+    position: absolute;
+    width: 36px;
+    height: 108px;
+    left: -2px;
+    top: 92px;
+    background: #39CDCC;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 0px 0px 6px 6px;
+}
+
+.contactus p{
+    position: absolute;
+    width: 56px;
+    top: 40px;
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 20px;
+    color: #000000;
+    transform: rotate(90deg);
+    margin-left: -10px;
+}
+
+.paragraf h1{
+    position: absolute;
+    width: 306px;
+    height: 120px;
+    left: 2px;
+    top: 30px;
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 55px;
+    line-height: 60px;
+    color: #333333;
+    margin-left: 212px;
+    margin-top: 233px;
+}
+
+.paragraf p{
+    width: 434px;
+    height: 70px;
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 35px;
+    color: #333333;
+    margin-left: -430px;
+    margin-top: 390px;
+}
+
+.playmarket{
+    margin-left: -440px;
+    margin-top: 0px;
+}
+
+.frameimg{
+    margin: 65px 161px 1684px 221px;
+}
+
+.frameimg1{
+    position: absolute;
+    width: 374px;
+    height: 397px;
+    left: 212px;
+    top: 769px;
+    border-radius: 0px;
+}
+
+.text h1{
+    position: absolute;
+    width: 392px;
+    height: 100px;
+    left: 730px;
+    top: 833px;
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 45px;
+    line-height: 50px;
+    color: #333333;
+}
+
+.text p{
+    position: absolute;
+    left: 730px;
+    top: 980px;
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 35px;
+    color: #333333;
+}
+
+.play{
+    position: absolute;
+    width: 147px;
+    height: 50px;
+    left: 730px;
+    top: 1095px;
+    border-radius: 0px;
+}
+
+.store{
+    position: absolute;
+    width: 147px;
+    height: 50px;
+    left: 885px;
+    top: 1095px;
+    border-radius: 0px;
+}
+
+.works{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.works h1{
+    position: absolute;
+    width: 291px;
+    height: 50px;
+    left: 575px;
+    top: 1238px;
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 45px;
+    line-height: 50px;
+    text-align: center;
+    color: #333333;
+}
+
+.leftcon{
+    position: absolute;
+    width: 288px;
+    height: 327px;
+    left: 194px;
+    top: 1356px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 10px #B7B7B7;
+    border-radius: 8px;
+    border-top: 8px solid blue;
+}
+
+.leftcon img{
+    margin-top: 50px;
+}
+
+.icondawn{
+    position: absolute;
+    top: 1500px;
+    margin-left: 490px;
+}
+
+.con{
+    position: absolute;
+    width: 303px;
+    height: 327px;
+    left: 574px;
+    top: 1356px;
+    background: #FFFFFF;
+    box-shadow: 1px 0px 10px #B7B7B7;
+    border-radius: 8px;
+    border-top: 8px solid #FF814A;
+}
+
+.con img{
+     margin-top: 45px;
+}
+
+.iconnext{
+    position: absolute;
+    top: 1500px;
+    margin-left: 885px;
+}
+
+.rightcon{
+    position: absolute;
+    width: 277px;
+    height: 327px;
+    left: 969px;
+    top: 1356px;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 10px #B7B7B7;
+    border-radius: 8px;
+    border-top: 8px solid #31C5A1;
+}
+
+.rightcon img{
+    margin-top: 50px;
+}
+
+
+.get{
+    position: absolute;
+    width: 1440px;
+    height: 371px;
+    left: 0px;
+    top: 1712px;
+    background: #31C5A1;
+    border-radius: 0px;
+}
+
+.get h1{
+    position: absolute;
+    left: 470px;
+    top: 110px;
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+
+.market{
+    position: absolute;
+    width: 132px;
+    height: 50px;
+    left: 583px;
+    top: 240px;
+    border-radius: 0px;
+    opacity: 0.5;
+}
+
+.store1{
+    position: absolute;
+    width: 132px;
+    height: 50px;
+    left: 725px;
+    top: 240px;
+    border-radius: 0px;
+    opacity: 0.5;
+}
+
+.logo1{
+    position: absolute;
+    width: 150px;
+    height: 40px;
+    left: 100px;
+    top: 2133px;
+    border-radius: 0px;
+}
+
+.p1{
+    position: absolute;
+    width: 127px;
+    height: 30px;
+    left: 410px;
+    top: 2120px;
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 30px;
+    color: #333333;
+}
+
+.p2{
+    position: absolute;
+    width: 158px;
+    height: 30px;
+    left: 720px;
+    top: 2125px;
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    color: #333333;
+
+}
+
+.p3{
+    position: absolute;
+    width: 264px;
+    height: 90px;
+    left: 1030px;
+    top: 2120px;
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 30px;
+    color: #333333;
+}
+
+
+
+
+
+
